@@ -25,6 +25,8 @@ Example:
 
 
 ## Automatically Curried
+All FunctionalJim functions are curried by default. This allows us to provide arguments to functions one at a time in order to partially apply them and create new functions.
+
 `FunctionalJim.reduce(items, iterator)`
 
 Example: 
