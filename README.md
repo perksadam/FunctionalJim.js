@@ -3,6 +3,7 @@ A functional javascript library.
 
 ## Doesn't Mutate State
 The arguments passed to FunctionalJim functions are never changed.
+
 `FunctionalJim.map(items, iterator)`
 
 Example: 
